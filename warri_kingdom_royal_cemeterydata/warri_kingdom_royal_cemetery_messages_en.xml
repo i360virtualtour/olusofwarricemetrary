@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="en_project_title"><![CDATA[Warri Kingdom  Royal Cemetery]]></data>
+  <data name="en_project_author_name"><![CDATA[Developed by "www.i360Limited.com"+234 803 618 2896]]></data>
+  <data name="en_project_author_url"><![CDATA[http://www.i360limited.com/]]></data>
+
+
+
+  <data name="en_pano89_title"><![CDATA[Olus Tomb]]></data>
+
+
+  <data name="en_pano91_title"><![CDATA[Early Ijala Settlement]]></data>
+
+
+  <data name="en_pano93_title"><![CDATA[Olu Ginuwa I 1480-1500]]></data>
+
+
+  <data name="en_pano95_title"><![CDATA[Olu Ijijen 1500-1524]]></data>
+
+
+  <data name="en_pano97_title"><![CDATA[Olu Irame 1525-1549]]></data>
+
+
+  <data name="en_pano99_title"><![CDATA[Olu Ojoluwa 1550-1569]]></data>
+
+
+  <data name="en_pano101_title"><![CDATA[Olu Esigie 1570-1569]]></data>
+
+
+  <data name="en_pano103_title"><![CDATA[Olu Atorongboye 1597-1624]]></data>
+
+
+  <data name="en_pano105_title"><![CDATA[Olu Atuwatse I 1628-1624]]></data>
+
+
+  <data name="en_pano107_title"><![CDATA[Olu Oyenakpara 1645-1653]]></data>
+
+
+  <data name="en_pano109_title"><![CDATA[Olu Omoluyiri 1654-1673]]></data>
+
+
+  <data name="en_pano111_title"><![CDATA[Olu Akenjoye 1701-1708]]></data>
+
+
+  <data name="en_pano113_title"><![CDATA[Olu Omagboye 1709-1709]]></data>
+
+
+  <data name="en_pano115_title"><![CDATA[Olu Akengboye 1710-1734]]></data>
+
+
+  <data name="en_pano117_title"><![CDATA[Olu Atogbuwa 1735-1759]]></data>
+
+
+  <data name="en_pano119_title"><![CDATA[Olu Erejuwa I 1760-1806]]></data>
+
+
+  <data name="en_pano121_title"><![CDATA[Olu Akengbuwa Joao 1807-1848]]></data>
+
+
+  <data name="en_pano123_title"><![CDATA[Olu Ginuwa II 1936-1949]]></data>
+
+
+  <data name="en_pano125_title"><![CDATA[Olu Erejuwa II 1951-1986]]></data>
+
+
+  <data name="en_pano127_title"><![CDATA[38 Royal Cemetery Entrance]]></data>
+
+
+
+
+
+
+  <data name="en_button1tooltip"><![CDATA[VR Developed by i360Limited.com]]></data>
+  <data name="en_button1onclick152357openurlwebsiteurl"><![CDATA[http://i360limited.com/]]></data>
+  <data name="en_controlBar_classiczoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="en_controlBar_classiczoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="en_controlBar_classicopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="en_controlBar_classiccloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="en_controlBar_classicautorotateOnTip"><![CDATA[Start autorotation]]></data>
+  <data name="en_controlBar_classicautorotateOffTip"><![CDATA[Stop autorotation]]></data>
+  <data name="en_controlBar_classicsoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="en_controlBar_classicsoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="en_controlBar_classicshowSpotsTip"><![CDATA[Show hotspots]]></data>
+  <data name="en_controlBar_classichideSpotsTip"><![CDATA[Hide hotspots]]></data>
+  <data name="en_controlBar_classicshowThumbnailsTip"><![CDATA[Show thumbnails]]></data>
+  <data name="en_controlBar_classichideThumbnailsTip"><![CDATA[Hide thumbnails]]></data>
+  <data name="en_controlBar_classicdisplayFloorplanTip"><![CDATA[Show floorplan]]></data>
+  <data name="en_controlBar_classichideFloorplanTip"><![CDATA[Hide floorplan]]></data>
+  <data name="en_controlBar_classicdisplayHelpTip"><![CDATA[Show help screen]]></data>
+  <data name="en_controlBar_classichideHelpTip"><![CDATA[Hide help screen]]></data>
+  <data name="en_controlBar_classicdisplayInfoTip"><![CDATA[Show information]]></data>
+  <data name="en_controlBar_classichideInfoTip"><![CDATA[Hide information]]></data>
+  <data name="en_controlBar_classicenterVRTip"><![CDATA[VR mode]]></data>
+  <data name="en_controlBar_classicenterVRNotTip"><![CDATA[VR mode is unavailable]]></data>
+  <data name="en_controlBar_classicdisplayControlsTip"><![CDATA[Show controls]]></data>
+  <data name="en_controlBar_classichideControlsTip"><![CDATA[Hide controls]]></data>
+  <data name="en_prevnexttheme1prevSceneTip"><![CDATA[Previous Scene]]></data>
+  <data name="en_prevnexttheme1nextSceneTip"><![CDATA[Next Scene]]></data>
+  <data name="en_logo2websiteurl"><![CDATA[https://tournigeria.gov.ng/]]></data>
+  <data name="en_logo2tooltipText"><![CDATA[Open website]]></data>
+  <data name="en_buttontooltip"><![CDATA[Visit Us On Google]]></data>
+  <data name="en_buttononclick108731openurlwebsiteurl"><![CDATA[https://goo.gl/maps/fmVubRF4tTdKJPCB8]]></data>
+  <data name="en_button2tooltip"><![CDATA[Social Share]]></data>
+  <data name="en_button3tooltip"><![CDATA[info]]></data>
+  <data name="en_floorPlanmenu_label"><![CDATA[Select a Hole/Location]]></data>
+  <data name="en_floorPlandisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareclose_text"><![CDATA[Close]]></data>
+  <data name="en_socialShareembed_text"><![CDATA[Copy paste this code in your page to embed this virtual tour]]></data>
+  <data name="en_socialShareembed_width_label"><![CDATA[Width]]></data>
+  <data name="en_socialShareembed_height_label"><![CDATA[Height]]></data>
+  <data name="en_contextmenuopenwebsitelabel1"><![CDATA[+234 803 618 2896]]></data>
+  <data name="en_contextmenuwebsiteurl1"><![CDATA[http://www.i360limited.com/]]></data>
+  <data name="en_contextmenuopenwebsitelabel2"><![CDATA[Nigerian Tourism Development Corporation (NTDC) ]]></data>
+  <data name="en_contextmenuwebsiteurl2"><![CDATA[https://tournigeria.gov.ng/]]></data>
+  <data name="en_contextmenuopenFsLabel"><![CDATA[Enter Fullscreen]]></data>
+  <data name="en_contextmenucloseFsLabel"><![CDATA[Exit Fullscreen]]></data>
+  <data name="en_contextmenuopenVrLabel"><![CDATA[Enter VR mode]]></data>
+  <data name="en_contextmenunormallabel"><![CDATA[Normal View]]></data>
+  <data name="en_contextmenufisheyelabel"><![CDATA[Fisheye View]]></data>
+  <data name="en_contextmenuarchitecturallabel"><![CDATA[Architectural View]]></data>
+  <data name="en_contextmenustereographiclabel"><![CDATA[Stereographic View]]></data>
+  <data name="en_contextmenupanninilabel"><![CDATA[Pannini View]]></data>
+  <data name="en_contextmenulittleplanetlabel"><![CDATA[Little Planet View]]></data>
+  <data name="en_contextmenufisheyeballlabel"><![CDATA[Fisheye Ball View]]></data>
+  <data name="en_descriptiondisplay_close_text"><![CDATA[Close]]></data>
+  <data name="en_galleryplay_text"><![CDATA[Play / Pause]]></data>
+  <data name="en_gallerynavprev_text"><![CDATA[Previous]]></data>
+  <data name="en_gallerynavnext_text"><![CDATA[Next]]></data>
+  <data name="en_galleryfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_galleryclose_text"><![CDATA[Close]]></data>
+  <data name="en_gallerypicture_title3"><![CDATA[Eze Mkpume]]></data>
+  <data name="en_gallerypicture_caption3"><![CDATA[]]></data>
+  <data name="en_description1display_close_text"><![CDATA[Close]]></data>
+  <data name="en_websiteViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_websiteViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_webVideoViewerfullscreen_text"><![CDATA[Fullscreen mode]]></data>
+  <data name="en_webVideoViewerclose_text"><![CDATA[Close]]></data>
+  <data name="en_button4tooltip"><![CDATA[]]></data>
+
+
+  <data name="en_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="en_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="en_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="en_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="en_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="en_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="en_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="en_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="en_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="en_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="en_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="en_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="en_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="en_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="en_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="en_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="en_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="en_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="en_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="en_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="en_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="en_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="en_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="en_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="en_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="en_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="en_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="en_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+  <data name="en_pano89_description"><![CDATA[<div>Welcome to the Groove of Warri Kingdom Royal Cemetery Ijala, in this forest lays the remains of the 18 (eighteen) past Olus (King) Of Warri, their Tombs are marked by Iroki trees planted at the spot where each Olu is Buried, The first Olu buried here 500yrs ago was “Olu Ginuwa I 1480-1500”</div><div><br></div><div>In the early 1500s, the Itsekiris found a place they termed sacred, a place that is worthy for their Olu (King) who has passed to the next life to rest, that place is Is Ijala. Located deep in the mangrove creek, Ijala is the first settlement of the Itsekiris.</div>]]></data>
+
+
+
+  <data name="en_pano91_description"><![CDATA[<div>When an Olu (King) dies, his body is ferried in a boat into the creeks by the priests of Ijala, after some incantations the oracle then reveals the spot the departed King will be buried. The Olu is then buried at the selected location with his head pointing up Land and his foot points toward the creek (River). An “IROKO TREE” is planted at the spot where an OLU (KING) is buried to mark the location.&nbsp;</div><div><br></div><div>Join Mr Henry Erikowa as he takes you through this royal grove of the Great Warri Kingdom.</div>]]></data>
+
+
+
+  <data name="en_pano93_description"><![CDATA[Under this 500 years old Iroko Tree lays “OLU GINUWA I”; The First Olu of Warri Kingdom, He was the First son of Oba Olua of Benin and heir apparent to the throne. He Left Benin with the first sons of the seventy Benin chiefs to found the Iwere (Warri) Kingdom. He Was the first Olu to have contact with the Portuguese Merchants who visited the area in the 16th Century. His reign as Olu was between 1480-1500 AD. OLU GINUWA I Joined his ancestors at Ijala and was buried there. Thus Ijala became the Royal Cemetery.]]></data>
+
+
+
+  <data name="en_pano95_description"><![CDATA[This is the Tomb of “OLU IJIJEN”, the First son of “OLU GINUWA I”. Hew was the second Olu, His reign was between 1500-1524 AD. He led the royal group from Ijala to Ode-Itsekiri (Big Warri) where the Kingdom was formally founded. Discovered the “Ewere Leafs” at Ode-Itsekiri (Big Warri) and also christianed the peoples’ language “Itekiri” by way of immortalizing Itsekiriene’s name. On the second visit of the Portuguese Merchants to the Kingdom, a cassava plant (imidaka) was given to him for cultivation in 1516 AD. He introduced the Itsekiri dressing attire, and decreed the use of facial marks of three strokes on each side of the cheek and another three strokes like the shape of fowl leg on each corner of the eye by all Iwere (Warri) people for identification.]]></data>
+
+
+
+  <data name="en_pano97_description"><![CDATA[Here Lays the remains of “OLU IRAME”; He was the Second son of “OLU GINUWA I” and brother to “OLU OGBOWURU I”. An established government was already formed at this period. His reign was between 1525-1549 AD. During his reign the following deities: Ibirikimo, Otueke, Ike and their attendants that came from Abala in Gulani area to stay at Ode Itsekiri (Big Warri) were driven away by him due to their noise making to a place now called Orugbo (Origho-Ugbo). He fought and conquered the Akoko King of Apoh. Efedundun, a monarch, and a very rich man who ventured a war on the Olu was eventually defeated and beheaded by one of the Olu’s children called Ebele of Orere.]]></data>
+
+
+
+  <data name="en_pano99_description"><![CDATA[This is the Tomb of “OLU OJOLUWA”, He was the 4th OLU and reigned in the year 1550-1569 AD. He was the Son of “OLU IRAME I”.]]></data>
+
+
+
+  <data name="en_pano101_description"><![CDATA[This Iroko Tree stump is the tomb of “OLU ESIGIE”, the 5th Olu who ruled between 1569-1570 AD. He was the Son of Olu Ojoluwa I. The periods of these two Kings (Ojoluwa I and Esigie I) are, according to historian J.O.E. Sagay, uncertain but “their periods represented that of expansion and consolidation. By the time Ojoluwa came to the throne, the fusion between the royal immigrants and the already settled population had almost become completed.” They also had contact with the European Merchants that came to the land in their era.]]></data>
+
+
+
+  <data name="en_pano103_description"><![CDATA[Under this Iroko tree lays the remains of “OLU ATORONGBOYE” also known as “SABASTIAN” his reign was between 1597-1624 AD, the 6th OLU of Warri Kingdom. He was the Son of Olu Esigie I. First Christian Olu to be baptized and was regarded as an Olu of great valour. Christianity was established at Ode-Itsekiri (Big Warri) by the Catholics in 1570 AD, in his era. In 1600 AD, he sent his eldest son Prince Oyeomasan (Dom Domingos) to Portugal to study theology and to take advantage of his stay to study how the country was being governed, so that he could help to re-organise the Warri Kingdom administratively when he comes back. In 1606, the Portuguese Monarch promulgated a royal decree, authorizing commerce and trade between all vessels and dominions of Portugal and ports in Warri Kingdom.]]></data>
+
+
+
+  <data name="en_pano105_description"><![CDATA[This is the Tomb of “OLU ATUWATSE I”, the 7th Olu, also known as “DOM DOMINGOS”. He was the Eldest son of “OLU ATORONGBOYE I”. He studied at the Portuguese Premier University of Coimbra from 1600 – 1611; thus becoming the first educated and graduate Olu in the Kingdom. In 1608, he received the order of Christ and was authorized by the King of Portugal to wear the golden dress of the Order. He married a Portuguese woman on his way back from Portugal.]]></data>
+
+
+
+  <data name="en_pano107_description"><![CDATA[<div>This iroko tree stands over the remains of “OLU OYENAKPARA”, known as “DOM ANTONIO DOMINGO” &nbsp;he was the 8th Olu of Warri Kingsom and reigned between 1645-1653 AD.</div><div><br></div><div>He was the Son of “OLU ATUWATSE I”. His had Portuguese mother named Magheghoeye by the Itsekiris. This was the first time an Olu whose mother is a foreigner ascended the great throne of Warri Kingdom. After the demise of his father (Atuwatse I), he traveled to Portugal in preparation for the throne and came back with a silver and diamond crowns. The diamond was meant for the Queen but woman does not reign in the Kingdom. He was credited to be the Nigerian to have written the oldest surviving letter to the Pope in Portugal, on the 20th day of November, 1652 AD, asking for Priests to be sent to his Kingdom. He efforts to Christianize the Itsekiri people proved abortive.</div>]]></data>
+
+
+
+  <data name="en_pano109_description"><![CDATA[<div>“OMOLUYIRI” was the 9th Olu who ruled from 1654-1673 AD. He was the Brother of “OLU ATUWATSE I”</div><div><br></div><div>This is the tomb of “OLU ABEJOYE I” the 10th Olu of Warri Kingdom, who role from 1673-1700 AD, He was one of the baptized Olus.</div>]]></data>
+
+
+
+  <data name="en_pano111_description"><![CDATA[<div>This is the Tomb of “OLU AKENJOYE” the 11th OLU, known as “LUDIVICO DOMINGOS” he reined in the year 1701-1708.</div><div><br></div><div>In 1686, the Brazilian Missionaries sent to Warri Kingdom erected a cross at the centre of a large square in Ode-Itsekiri (Big Warri) from which hung about fifty church lamps.</div><div>In 1692, the first church in Warri Kingdom (the first in present day Nigeria) designed by one Rev. Father Protasto was built and dedicated to Saint Anthony.</div>]]></data>
+
+
+
+  <data name="en_pano113_description"><![CDATA[This is the Tomb of “Olu Omagboye” the 12th Olu of Warri, his reign was eighteen century.]]></data>
+
+
+
+  <data name="en_pano115_description"><![CDATA[Here, rest the remains of “Olu Akengboye” the 13th Olu who ruled from 1710-1734 AD.]]></data>
+
+
+
+  <data name="en_pano117_description"><![CDATA[This is the resting place of “OLU ATOGBUWA I”, 14th Olu Of Warri. Known as “MIGUEL OTOBIA” his reign was between 1735-1759. He was the Brother of “OLU AKENGBOYE I”. industries like Fishing, Salt Making, Pot Making, Mat Weaving, Soap Making, Canoe Building and Slave Trading flourished marked his era. The Urhobos (Sobos) of Agbassa came from Agbarha-Otor to Warri Kingdom to settle in a small part of land in the 18th Century with the permission of this Olu (Atogbuwa I) as customary tenants of the Olu whose over-lordship they have always recognized.]]></data>
+
+
+
+  <data name="en_pano119_description"><![CDATA[This is the resting place of “OLU ATOGBUWA I”, 14th Olu Of Warri. Known as “MIGUEL OTOBIA” his reign was between 1735-1759. He was the Brother of “OLU AKENGBOYE I”. industries like Fishing, Salt Making, Pot Making, Mat Weaving, Soap Making, Canoe Building and Slave Trading flourished marked his era. The Urhobos (Sobos) of Agbassa came from Agbarha-Otor to Warri Kingdom to settle in a small part of land in the 18th Century with the permission of this Olu (Atogbuwa I) as customary tenants of the Olu whose over-lordship they have always recognized.]]></data>
+
+
+
+  <data name="en_pano121_description"><![CDATA[Here lays “Olu Akengbuwa Joao” the 16th Olu of warri, He reigned in the year 1807-1848 AD. During his reign a certain medicine man from Ife in Ile-Ife, was brought to cure the bareness. of Roli, one of the Olu’s wives, he was then asked by Omateye, the son of the Olu to treat Iye the Olu’s half sister for the same illness, without Roli’s permission. Because of this he was ordered by the Olu to be beheaded but before the medicine man was killed, he warned that his blood should not be allowed to touch the ground of the land or else after Akengbuwa’s reign a period of interregnum shall set in. This warning was ignored.]]></data>
+
+
+
+  <data name="en_pano123_description"><![CDATA[<div>Under this Iroko rest “OLU GINUWA II”, the 17th Olu who reigned between 1936-1949 AD.&nbsp;</div><div><br></div><div>He began the second dynasty, after the eighty eight years interregnum (1848 – 1936). Grandson of Ejo who was the son of Olu Akengbuwa I. Ginuwa II was the son of Prince Ikenbuwa son of Ejo. He was already old when he ascended the throne. His reign marked a period of peace, progress and harmony in Iwere land, and due to his tolerance he was loved by the Itsekiri people. The Olu’s installation marred relationships between the Itsekiris and the Urhobos, who feared that they might mistakenly be regarded as the Olu’s subject since they were in Warri Division.</div>]]></data>
+
+
+
+  <data name="en_pano125_description"><![CDATA[<div>“OLU EREJUWA II” Rest at this location, he was the 18th Olu and he ruled in the year 1951-1986 AD.&nbsp;</div><div><br></div><div>He was the Second Olu in the second dynasty and also the second son of Olu Ginuwa II. He was the first Olu to maintain two Palaces, one at Ode-Itsekiri (Big Warri) and the other at Warri Township. First Olu to reside in Warri Township. His era coincided with the emergence of party politics in Nigeria. The retainership of the old title “Olu of Warri” was achieved in this era in 1952, which resulted to the change of Warri Province to Delta Province.</div>]]></data>
+
+
+
+
+
+</krpano>
